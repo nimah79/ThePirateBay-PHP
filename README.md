@@ -1,2 +1,2 @@
-# ThePirateBay-REST-API
-REST API for The Pirate Bay torrent service, written in PHP
+# ThePirateBay-PHP
+Simple wrapper for The Pirate Bay torrent service
